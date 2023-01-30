@@ -1,11 +1,12 @@
 [![MasterHead](https://serving.photos.photobox.com/9839901838b06e172bb5b969f139a0db7c896f7784f00449fefee5ea7396b703f593adc1.jpg)](https://github.com/kleberkunha/kleberkunha)
 <h1 align="center">Hi 👋, I'm Kleber da Cunha</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<div align="center">
+<img align="center" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleberkunha&label=Profile%20views&color=0e75b6&style=flat" alt="kleberkunha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kleberkunha" alt="kleberkunha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kleberkunha" alt="kleberkunha" /></a> </p>
 
 <div align="center">
  <p>👨‍💻 All of my projects are available at : https://kleberkunha.github.io/pt/</p><br>
