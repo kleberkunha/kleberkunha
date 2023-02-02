@@ -1,4 +1,4 @@
-[![MasterHead](https://serving.photos.photobox.com/9839901838b06e172bb5b969f139a0db7c896f7784f00449fefee5ea7396b703f593adc1.jpg)](https://github.com/kleberkunha/kleberkunha)
+
 <h1 align="center">Hi 👋, I'm Kleber da Cunha</h1>
 <h3 align="center">A passionate developer from Brasil.</h3>
 <div align="center">
