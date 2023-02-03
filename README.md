@@ -9,7 +9,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kleberkunha" alt="kleberkunha" /></a> </p>
 
 <div align="center">
+ <strong><p> My portfolio is being Updated to Ruby on Rails + ReactJS to show everything that I could create in the 1 year of experience at Direct Market </p></strong>
+ <p>For now, feel free to access this basic portfolio by clicking on the link below</p>
  <p>👨‍💻 All of my projects are available at : https://kleberkunha.github.io/pt/</p><br>
+ 
  <p>📫 How to reach me : <a href="hello.kleberkunha@gmail.com">hello.kleberkunha@gmail.com</p>
 </div>
 
