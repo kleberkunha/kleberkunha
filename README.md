@@ -13,7 +13,7 @@
 <a href="https://github.com/kleberkunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorhosth&bg_color=0d1117&color=007cff&line=007cff&point=007cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kleberkunha&bg_color=0d1117&color=007cff&line=007cff&point=007cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ### Skills:
 
