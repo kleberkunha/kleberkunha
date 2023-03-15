@@ -22,7 +22,7 @@
 
 ### Learning:
   <p>
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg]  (https://imgs.search.brave.com/ZifpNZSNIqIA961nVDCBSwi6AvH7tX-NWGSZWlsp13o/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8xMC9KYXZhX2xv/Z29faWNvbi5wbmc)" alt="sass" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/GlYLCMz6Wp601Z-HT4uldwewGaZHTxB9klJkrZ3FMxg/rs:fit:150:150:1/g:ce/aHR0cHM6Ly9pbmZv/Zm9yYWxsLmZyL2lt/YWdlc19jb3Vycy9h/Y2N1ZWlsX2phdmFf/MTUwLnBuZw" alt="sass" width="40" height="40"/>
   </p>
 
 
