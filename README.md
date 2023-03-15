@@ -20,16 +20,22 @@
 
 
 
-  ### Learning:
-   #### JAVA
+### Learning:
+  <p>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg]  (https://imgs.search.brave.com/ZifpNZSNIqIA961nVDCBSwi6AvH7tX-NWGSZWlsp13o/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8xMC9KYXZhX2xv/Z29faWNvbi5wbmc)" alt="sass" width="40" height="40"/>
+  </p>
+
+
+
+
 
 
 <div align="center">
-<br><p align="centre"><b>Kleber da Cunha</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/kleberkunha/count.svg" /></p>
-<br>
+  <br>
+  <p align="centre"><b>Kleber da Cunha</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/kleberkunha/count.svg" /></p>
+  <br>
 </div>
-  
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007cff&height=120&section=footer"/>
