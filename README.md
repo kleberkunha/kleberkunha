@@ -27,7 +27,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Kleber da Cunha</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/victorhosth/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/kleberkunha/count.svg" /></p>
 <br>
 </div>
   
