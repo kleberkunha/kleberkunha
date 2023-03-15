@@ -22,7 +22,7 @@
 
 ### Learning:
   <p>
-    <img src="https://imgs.search.brave.com/GlYLCMz6Wp601Z-HT4uldwewGaZHTxB9klJkrZ3FMxg/rs:fit:150:150:1/g:ce/aHR0cHM6Ly9pbmZv/Zm9yYWxsLmZyL2lt/YWdlc19jb3Vycy9h/Y2N1ZWlsX2phdmFf/MTUwLnBuZw" alt="sass" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/GlYLCMz6Wp601Z-HT4uldwewGaZHTxB9klJkrZ3FMxg/rs:fit:150:150:1/g:ce/aHR0cHM6Ly9pbmZv/Zm9yYWxsLmZyL2lt/YWdlc19jb3Vycy9h/Y2N1ZWlsX2phdmFf/MTUwLnBuZw" alt="sass" width="100" height="100"/>
   </p>
 
 
