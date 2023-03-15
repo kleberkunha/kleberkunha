@@ -21,7 +21,8 @@
 
 
   ### Learning:
- ![Java]([https://img.shields.io/badge/-Java-0D1117?style=for-the-badge])
+   <img width=10% src=" https://img.shields.io/badge/-Java-0D1117?style=for-the-badge"/>
+
 
 <div align="center">
 <br><p align="centre"><b>Kleber da Cunha</b></p>
