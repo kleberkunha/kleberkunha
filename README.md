@@ -21,7 +21,7 @@
 
 
   ### Learning:
-   <img width=10% src=" https://img.shields.io/badge/-Java-0D1117?style=for-the-badge"/>
+   #### JAVA
 
 
 <div align="center">
