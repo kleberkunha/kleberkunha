@@ -26,6 +26,8 @@
       <img src="https://imgs.search.brave.com/GlYLCMz6Wp601Z-HT4uldwewGaZHTxB9klJkrZ3FMxg/rs:fit:150:150:1/g:ce/aHR0cHM6Ly9pbmZv/Zm9yYWxsLmZyL2lt/YWdlc19jb3Vycy9h/Y2N1ZWlsX2phdmFf/MTUwLnBuZw" alt="sass" width="100" height="100"/>
       <img src="https://imgs.search.brave.com/QeBcDKeM6PSxQFOoJVMIKqFMwyPOFyZ3Fg9pkAaMlP4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9tYWdp/Y2tpYXQuZmlsZXMu/d29yZHByZXNzLmNv/bS8yMDE3LzAxL3Nw/cmluZy1ib290LWxv/Z28ucG5nP3c9NzM5" alt="sass" width="100" height="100"/>
   
+        <img src="https://imgs.search.brave.com/G_XCorpJkyt5IDlX31trqPPJyiQWTsaYPiCyVfDeMWA/rs:fit:160:160:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzM0OTQwNjk_/dj00JnM9MTYw" alt="sass" width="100" height="100"/>
+  
 </div>
 
 
