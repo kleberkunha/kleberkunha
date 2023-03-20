@@ -24,7 +24,7 @@
 
 <div class="container-fluid d-flex">
       <img src="https://imgs.search.brave.com/GlYLCMz6Wp601Z-HT4uldwewGaZHTxB9klJkrZ3FMxg/rs:fit:150:150:1/g:ce/aHR0cHM6Ly9pbmZv/Zm9yYWxsLmZyL2lt/YWdlc19jb3Vycy9h/Y2N1ZWlsX2phdmFf/MTUwLnBuZw" alt="sass" width="100" height="100"/>
-      <img src="https://imgs.search.brave.com/NC5WX2lAc_yNiJro4f05mfJfhCmQOoSDdcSolWmBT-0/rs:fit:417:127:1/g:ce/aHR0cHM6Ly93d3cu/ZGFyaWF3YW4uY29t/L21lZGlhL2ltYWdl/cy90ZWNoLXNwcmlu/Zy1ib290LndpZHRo/LTEwMjQucG5n" alt="sass" width="100" height="100"/>
+      <img src="https://imgs.search.brave.com/QeBcDKeM6PSxQFOoJVMIKqFMwyPOFyZ3Fg9pkAaMlP4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9tYWdp/Y2tpYXQuZmlsZXMu/d29yZHByZXNzLmNv/bS8yMDE3LzAxL3Nw/cmluZy1ib290LWxv/Z28ucG5nP3c9NzM5" alt="sass" width="100" height="100"/>
   
 </div>
 
