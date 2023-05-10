@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007cff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Kleber+da+Cunha;Welcome+to+my+github:%29)](https://git.io/typing-svg)
 
-
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kleberkunha&bg_color=0d1117&color=007cff&line=007cff&point=007cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ### Skills:
 
